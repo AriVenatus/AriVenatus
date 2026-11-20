@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="36" viewBox="0 0 360 36" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="36" viewBox="0 0 840 36" role="img" aria-labelledby="t d">
 <title id="t">mail arivenatus@gmail.com</title>
 <desc id="d">mail arivenatus@gmail.com</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
-<rect width="360" height="36" rx="6" fill="#070a06"/>
-<text x="16" y="23" xml:space="preserve" textLength="327.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cd4a4" font-weight="700">ari</tspan><tspan fill="#a3f26a">@github</tspan><tspan fill="#8a938a">:~$ </tspan><tspan fill="#e3ecdc">mail </tspan><tspan fill="#6cb4e8">arivenatus@gmail.com</tspan></text>
+<rect width="840" height="36" fill="#070a06"/>
+<text x="12" y="23" xml:space="preserve" textLength="327.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cd4a4" font-weight="700">ari</tspan><tspan fill="#a3f26a">@github</tspan><tspan fill="#8a938a">:~$ </tspan><tspan fill="#e3ecdc">mail </tspan><tspan fill="#6cb4e8">arivenatus@gmail.com</tspan></text>
 </svg>

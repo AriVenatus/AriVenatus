@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" role="img" aria-labelledby="t d">
+<title id="t">$ ls -lt ~/repos | head -5</title>
+<desc id="d">ari@github:~$ ls -lt ~/repos | head -5
+2026-11-20  claude-usage-limits         Claude Code plugin: Usage tab with context, cost,
+                                        5h/weekly limits, pace hints and cache keep-alive
+2026-09-08  token-radar                 Multi-chain Telegram token listener with a terminal
+                                        UI
+2026-09-07  GatekeeperV4                A Discord bot for managing CubeCoders AMP game
+                                        servers — console and chat bridging, Discord Role ↔
+                                        whitelist sync, self-service account linking, and
+                                        live server banners.
+2026-07-03  sol-wallet-analysis-tool    A Python-based tool for analyzing Solana wallet
+                                        activity, focusing on trading behavior, farming
+                                        patterns, and ROI calculations.
+2026-07-03  sol-wallet-tx-scraper       Scrapes SOL withdrawals from known CEX wallets via
+                                        Solana RPC, collecting the receiving addresses.
+# updated daily by a GitHub Action</desc>
+<style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
+<rect width="840" height="360" fill="#070a06"/>
+<text x="12" y="32" xml:space="preserve" textLength="319.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cd4a4" font-weight="700">ari</tspan><tspan fill="#a3f26a">@github</tspan><tspan fill="#8a938a">:~$ </tspan><tspan fill="#e3ecdc">ls -lt ~/repos | head -5</tspan></text>
+<text x="32" y="54" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-11-20  </tspan><tspan fill="#6cb4e8" font-weight="700">claude-usage-limits         </tspan><tspan fill="#e3ecdc">Claude Code plugin: Usage tab with context, cost,</tspan></text>
+<text x="32" y="76" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">5h/weekly limits, pace hints and cache keep-alive</tspan></text>
+<text x="32" y="98" xml:space="preserve" textLength="764.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-09-08  </tspan><tspan fill="#6cb4e8" font-weight="700">token-radar                 </tspan><tspan fill="#e3ecdc">Multi-chain Telegram token listener with a terminal</tspan></text>
+<text x="32" y="120" xml:space="preserve" textLength="352.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">UI</tspan></text>
+<text x="32" y="142" xml:space="preserve" textLength="722.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-09-07  </tspan><tspan fill="#6cb4e8" font-weight="700">GatekeeperV4                </tspan><tspan fill="#e3ecdc">A Discord bot for managing CubeCoders AMP game</tspan></text>
+<text x="32" y="164" xml:space="preserve" textLength="764.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">servers — console and chat bridging, Discord Role ↔</tspan></text>
+<text x="32" y="186" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">whitelist sync, self-service account linking, and</tspan></text>
+<text x="32" y="208" xml:space="preserve" textLength="504.0" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">live server banners.</tspan></text>
+<text x="32" y="230" xml:space="preserve" textLength="730.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-07-03  </tspan><tspan fill="#6cb4e8" font-weight="700">sol-wallet-analysis-tool    </tspan><tspan fill="#e3ecdc">A Python-based tool for analyzing Solana wallet</tspan></text>
+<text x="32" y="252" xml:space="preserve" textLength="730.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">activity, focusing on trading behavior, farming</tspan></text>
+<text x="32" y="274" xml:space="preserve" textLength="596.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">patterns, and ROI calculations.</tspan></text>
+<text x="32" y="296" xml:space="preserve" textLength="756.0" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-07-03  </tspan><tspan fill="#6cb4e8" font-weight="700">sol-wallet-tx-scraper       </tspan><tspan fill="#e3ecdc">Scrapes SOL withdrawals from known CEX wallets via</tspan></text>
+<text x="32" y="318" xml:space="preserve" textLength="730.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">Solana RPC, collecting the receiving addresses.</tspan></text>
+<text x="32" y="340" xml:space="preserve" textLength="285.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a"># updated daily by a GitHub Action</tspan></text>
+</svg>

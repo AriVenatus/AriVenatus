@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="96" viewBox="0 0 840 96" role="img" aria-labelledby="t d">
+<title id="t">$ ls ~/projects/.wip</title>
+<desc id="d">ari@github:~$ ls ~/projects/.wip
+homelab-duo-setup/   docs for a two-server homelab, public when it's done
+dash-mgr/            Docker container manager in Bash, public when it's done</desc>
+<style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
+<rect width="840" height="96" fill="#070a06"/>
+<text x="12" y="32" xml:space="preserve" textLength="268.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cd4a4" font-weight="700">ari</tspan><tspan fill="#a3f26a">@github</tspan><tspan fill="#8a938a">:~$ </tspan><tspan fill="#e3ecdc">ls ~/projects/.wip</tspan></text>
+<text x="32" y="54" xml:space="preserve" textLength="613.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#6cb4e8" font-weight="700">homelab-duo-setup/</tspan><tspan fill="#e3ecdc">   </tspan><tspan fill="#8a938a">docs for a two-server homelab, public when it's done</tspan></text>
+<text x="32" y="76" xml:space="preserve" textLength="638.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#6cb4e8" font-weight="700">dash-mgr/</tspan><tspan fill="#e3ecdc">            </tspan><tspan fill="#8a938a">Docker container manager in Bash, public when it's done</tspan></text>
+</svg>

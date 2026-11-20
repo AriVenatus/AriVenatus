@@ -2,7 +2,7 @@
 <title id="t">Zyphex</title>
 <desc id="d">Website for an external client's crypto trading web app (Gate.io CrossEx). Tags: next.js, react, tailwind, typescript. Link: zyphex.xyz.</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
-<rect width="420" height="188" rx="6" fill="#070a06"/>
+<rect width="420" height="188" fill="#070a06"/>
 <rect x="12.5" y="18.5" width="395" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
 <rect x="22" y="10" width="60" height="16" fill="#070a06"/>
 <text x="27" y="23" fill="#4cd4a4" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs">Zyphex</text>
