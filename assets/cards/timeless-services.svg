@@ -3,11 +3,11 @@
 <desc id="d">My next project, coming soon. Follow along on Discord. Tags: upcoming. Link: discord.gg/dSx7Sfu6Pz.</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
 <rect width="420" height="188" fill="#070a06"/>
-<rect x="12.5" y="18.5" width="395" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
-<rect x="22" y="10" width="153" height="16" fill="#070a06"/>
-<text x="27" y="23" fill="#4cd4a4" font-weight="700" textLength="142.8" lengthAdjust="spacingAndGlyphs">Timeless Services</text>
-<text x="28" y="50" fill="#e3ecdc" textLength="352.8" lengthAdjust="spacingAndGlyphs">My next project, coming soon. Follow along</text>
-<text x="28" y="70" fill="#e3ecdc" textLength="92.4" lengthAdjust="spacingAndGlyphs">on Discord.</text>
-<text x="28" y="138" fill="#a3f26a" textLength="75.6" lengthAdjust="spacingAndGlyphs">#upcoming</text>
-<text x="28" y="160" fill="#6cb4e8" textLength="193.2" lengthAdjust="spacingAndGlyphs">discord.gg/dSx7Sfu6Pz ↗</text>
+<rect x="6.5" y="18.5" width="382" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
+<rect x="15.5" y="10" width="153" height="16" fill="#070a06"/>
+<text x="20.5" y="23" fill="#4cd4a4" font-weight="700" textLength="142.8" lengthAdjust="spacingAndGlyphs">Timeless Services</text>
+<text x="21.5" y="50" fill="#e3ecdc" textLength="352.8" lengthAdjust="spacingAndGlyphs">My next project, coming soon. Follow along</text>
+<text x="21.5" y="70" fill="#e3ecdc" textLength="92.4" lengthAdjust="spacingAndGlyphs">on Discord.</text>
+<text x="21.5" y="138" fill="#a3f26a" textLength="75.6" lengthAdjust="spacingAndGlyphs">#upcoming</text>
+<text x="21.5" y="160" fill="#6cb4e8" textLength="193.2" lengthAdjust="spacingAndGlyphs">discord.gg/dSx7Sfu6Pz ↗</text>
 </svg>

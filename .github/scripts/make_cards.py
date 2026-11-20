@@ -55,19 +55,23 @@ def svg(w, h, title, desc, body):
             f'<rect width="{w}" height="{h}" fill="{BG}"/>\n{body}\n</svg>\n')
 
 
-def card(title, text, tags, link):
-    w, h = 420, 188
-    lines = textwrap.wrap(text, 44)
+def card(title, text, tags, link, left):
+    w, h, bw = 420, 188, 382  # bw = box width: 32px outer margin to match the pane output, 6px towards the other column
+    x0 = 32 if left else w - 32 - bw
+    lines = textwrap.wrap(text, 42)
     assert len(lines) <= 4, f'{title}: description wraps to {len(lines)} lines, max 4'
-    out = [f'<rect x="12.5" y="18.5" width="{w - 25}" height="{h - 31}" fill="none" '
+    out = [f'<rect x="{x0 + .5}" y="18.5" width="{bw}" height="{h - 31}" fill="none" '
            f'stroke="{MUTED}" stroke-opacity=".55"/>',
-           f'<rect x="22" y="10" width="{len(title) * CW + 10:.0f}" height="16" fill="{BG}"/>',
-           f'<text x="27" y="23" fill="{MINT}" font-weight="700"{fit(title)}>{esc(title)}</text>']
+           f'<rect x="{x0 + 9.5}" y="10" width="{len(title) * CW + 10:.0f}" height="16" fill="{BG}"/>',
+           f'<text x="{x0 + 14.5}" y="23" fill="{MINT}" font-weight="700"{fit(title)}>{esc(title)}</text>']
+    tx = x0 + 15.5
     for i, ln in enumerate(lines):
-        out.append(f'<text x="28" y="{50 + i * 20}" fill="{FG}"{fit(ln)}>{esc(ln)}</text>')
+        out.append(f'<text x="{tx}" y="{50 + i * 20}" fill="{FG}"{fit(ln)}>{esc(ln)}</text>')
     tag_text = ' '.join('#' + t for t in tags)
-    out.append(f'<text x="28" y="{h - 50}" fill="{LIME}"{fit(tag_text)}>{esc(tag_text)}</text>')
-    out.append(f'<text x="28" y="{h - 28}" fill="{BLUE}"{fit(link + " ↗")}>{esc(link)} ↗</text>')
+    for t in lines + [tag_text, link + ' ↗']:
+        assert 15.5 + len(t) * CW <= bw, f'{title}: line too wide: {t}'
+    out.append(f'<text x="{tx}" y="{h - 50}" fill="{LIME}"{fit(tag_text)}>{esc(tag_text)}</text>')
+    out.append(f'<text x="{tx}" y="{h - 28}" fill="{BLUE}"{fit(link + " ↗")}>{esc(link)} ↗</text>')
     return svg(w, h, title, f'{text} Tags: {", ".join(tags)}. Link: {link}.', '\n'.join(out))
 
 
@@ -166,8 +170,8 @@ def contact(cmd, arg, comment):
 
 
 if __name__ == '__main__':
-    for f, *a in PROJECTS:
-        open(f'assets/cards/{f}.svg', 'w').write(card(*a))
+    for i, (f, *a) in enumerate(PROJECTS):  # README shows them in pairs: even index = left column
+        open(f'assets/cards/{f}.svg', 'w').write(card(*a, left=i % 2 == 0))
     for f, *a in CONTACT:
         open(f'assets/cards/{f}.svg', 'w').write(contact(*a))
     for f, (cmd, rows, extra) in PANES.items():

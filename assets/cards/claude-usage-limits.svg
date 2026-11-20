@@ -3,12 +3,12 @@
 <desc id="d">Claude Code plugin: a Usage pane with context, cost, 5h and weekly limits, pace hints and a cache keep-alive. Tags: typescript, claude-code. Link: github.com/AriVenatus/claude-usage-limits.</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
 <rect width="420" height="188" fill="#070a06"/>
-<rect x="12.5" y="18.5" width="395" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
-<rect x="22" y="10" width="170" height="16" fill="#070a06"/>
-<text x="27" y="23" fill="#4cd4a4" font-weight="700" textLength="159.6" lengthAdjust="spacingAndGlyphs">claude-usage-limits</text>
-<text x="28" y="50" fill="#e3ecdc" textLength="310.8" lengthAdjust="spacingAndGlyphs">Claude Code plugin: a Usage pane with</text>
-<text x="28" y="70" fill="#e3ecdc" textLength="344.4" lengthAdjust="spacingAndGlyphs">context, cost, 5h and weekly limits, pace</text>
-<text x="28" y="90" fill="#e3ecdc" textLength="243.6" lengthAdjust="spacingAndGlyphs">hints and a cache keep-alive.</text>
-<text x="28" y="138" fill="#a3f26a" textLength="201.6" lengthAdjust="spacingAndGlyphs">#typescript #claude-code</text>
-<text x="28" y="160" fill="#6cb4e8" textLength="361.2" lengthAdjust="spacingAndGlyphs">github.com/AriVenatus/claude-usage-limits ↗</text>
+<rect x="6.5" y="18.5" width="382" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
+<rect x="15.5" y="10" width="170" height="16" fill="#070a06"/>
+<text x="20.5" y="23" fill="#4cd4a4" font-weight="700" textLength="159.6" lengthAdjust="spacingAndGlyphs">claude-usage-limits</text>
+<text x="21.5" y="50" fill="#e3ecdc" textLength="310.8" lengthAdjust="spacingAndGlyphs">Claude Code plugin: a Usage pane with</text>
+<text x="21.5" y="70" fill="#e3ecdc" textLength="344.4" lengthAdjust="spacingAndGlyphs">context, cost, 5h and weekly limits, pace</text>
+<text x="21.5" y="90" fill="#e3ecdc" textLength="243.6" lengthAdjust="spacingAndGlyphs">hints and a cache keep-alive.</text>
+<text x="21.5" y="138" fill="#a3f26a" textLength="201.6" lengthAdjust="spacingAndGlyphs">#typescript #claude-code</text>
+<text x="21.5" y="160" fill="#6cb4e8" textLength="361.2" lengthAdjust="spacingAndGlyphs">github.com/AriVenatus/claude-usage-limits ↗</text>
 </svg>

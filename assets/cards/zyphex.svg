@@ -3,11 +3,11 @@
 <desc id="d">Website for an external client's crypto trading web app (Gate.io CrossEx). Tags: next.js, react, tailwind, typescript. Link: zyphex.xyz.</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
 <rect width="420" height="188" fill="#070a06"/>
-<rect x="12.5" y="18.5" width="395" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
-<rect x="22" y="10" width="60" height="16" fill="#070a06"/>
-<text x="27" y="23" fill="#4cd4a4" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs">Zyphex</text>
-<text x="28" y="50" fill="#e3ecdc" textLength="327.6" lengthAdjust="spacingAndGlyphs">Website for an external client's crypto</text>
-<text x="28" y="70" fill="#e3ecdc" textLength="285.6" lengthAdjust="spacingAndGlyphs">trading web app (Gate.io CrossEx).</text>
-<text x="28" y="138" fill="#a3f26a" textLength="310.8" lengthAdjust="spacingAndGlyphs">#next.js #react #tailwind #typescript</text>
-<text x="28" y="160" fill="#6cb4e8" textLength="100.8" lengthAdjust="spacingAndGlyphs">zyphex.xyz ↗</text>
+<rect x="6.5" y="18.5" width="382" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
+<rect x="15.5" y="10" width="60" height="16" fill="#070a06"/>
+<text x="20.5" y="23" fill="#4cd4a4" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs">Zyphex</text>
+<text x="21.5" y="50" fill="#e3ecdc" textLength="327.6" lengthAdjust="spacingAndGlyphs">Website for an external client's crypto</text>
+<text x="21.5" y="70" fill="#e3ecdc" textLength="285.6" lengthAdjust="spacingAndGlyphs">trading web app (Gate.io CrossEx).</text>
+<text x="21.5" y="138" fill="#a3f26a" textLength="310.8" lengthAdjust="spacingAndGlyphs">#next.js #react #tailwind #typescript</text>
+<text x="21.5" y="160" fill="#6cb4e8" textLength="100.8" lengthAdjust="spacingAndGlyphs">zyphex.xyz ↗</text>
 </svg>

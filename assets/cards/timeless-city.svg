@@ -3,12 +3,12 @@
 <desc id="d">Long-running (2+ years) FiveM roleplay server: administration, scripting in Lua, project lead. Tags: fivem, lua, discord. Link: discord.gg/timelesscity.</desc>
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
 <rect width="420" height="188" fill="#070a06"/>
-<rect x="12.5" y="18.5" width="395" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
-<rect x="22" y="10" width="119" height="16" fill="#070a06"/>
-<text x="27" y="23" fill="#4cd4a4" font-weight="700" textLength="109.2" lengthAdjust="spacingAndGlyphs">Timeless City</text>
-<text x="28" y="50" fill="#e3ecdc" textLength="319.2" lengthAdjust="spacingAndGlyphs">Long-running (2+ years) FiveM roleplay</text>
-<text x="28" y="70" fill="#e3ecdc" textLength="344.4" lengthAdjust="spacingAndGlyphs">server: administration, scripting in Lua,</text>
-<text x="28" y="90" fill="#e3ecdc" textLength="109.2" lengthAdjust="spacingAndGlyphs">project lead.</text>
-<text x="28" y="138" fill="#a3f26a" textLength="168.0" lengthAdjust="spacingAndGlyphs">#fivem #lua #discord</text>
-<text x="28" y="160" fill="#6cb4e8" textLength="210.0" lengthAdjust="spacingAndGlyphs">discord.gg/timelesscity ↗</text>
+<rect x="32.5" y="18.5" width="382" height="157" fill="none" stroke="#8a938a" stroke-opacity=".55"/>
+<rect x="41.5" y="10" width="119" height="16" fill="#070a06"/>
+<text x="46.5" y="23" fill="#4cd4a4" font-weight="700" textLength="109.2" lengthAdjust="spacingAndGlyphs">Timeless City</text>
+<text x="47.5" y="50" fill="#e3ecdc" textLength="319.2" lengthAdjust="spacingAndGlyphs">Long-running (2+ years) FiveM roleplay</text>
+<text x="47.5" y="70" fill="#e3ecdc" textLength="344.4" lengthAdjust="spacingAndGlyphs">server: administration, scripting in Lua,</text>
+<text x="47.5" y="90" fill="#e3ecdc" textLength="109.2" lengthAdjust="spacingAndGlyphs">project lead.</text>
+<text x="47.5" y="138" fill="#a3f26a" textLength="168.0" lengthAdjust="spacingAndGlyphs">#fivem #lua #discord</text>
+<text x="47.5" y="160" fill="#6cb4e8" textLength="210.0" lengthAdjust="spacingAndGlyphs">discord.gg/timelesscity ↗</text>
 </svg>
