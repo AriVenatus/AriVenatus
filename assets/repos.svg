@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" role="img" aria-labelledby="t d">
 <title id="t">$ ls -lt ~/repos | head -5</title>
 <desc id="d">ari@github:~$ ls -lt ~/repos | head -5
-2026-11-20  claude-usage-limits         Claude Code plugin: Usage tab with context, cost,
+2026-11-25  claude-usage-limits         Claude Code plugin: Usage tab with context, cost,
                                         5h/weekly limits, pace hints and cache keep-alive
 2026-09-08  token-radar                 Multi-chain Telegram token listener with a terminal
                                         UI
@@ -18,7 +18,7 @@
 <style>text { font-family: 'Fira Mono', 'Fira Code', 'FiraCode Nerd Font', 'DejaVu Sans Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 14px; white-space: pre; }</style>
 <rect width="840" height="360" fill="#070a06"/>
 <text x="12" y="32" xml:space="preserve" textLength="319.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cd4a4" font-weight="700">ari</tspan><tspan fill="#a3f26a">@github</tspan><tspan fill="#8a938a">:~$ </tspan><tspan fill="#e3ecdc">ls -lt ~/repos | head -5</tspan></text>
-<text x="32" y="54" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-11-20  </tspan><tspan fill="#6cb4e8" font-weight="700">claude-usage-limits         </tspan><tspan fill="#e3ecdc">Claude Code plugin: Usage tab with context, cost,</tspan></text>
+<text x="32" y="54" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-11-25  </tspan><tspan fill="#6cb4e8" font-weight="700">claude-usage-limits         </tspan><tspan fill="#e3ecdc">Claude Code plugin: Usage tab with context, cost,</tspan></text>
 <text x="32" y="76" xml:space="preserve" textLength="747.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">5h/weekly limits, pace hints and cache keep-alive</tspan></text>
 <text x="32" y="98" xml:space="preserve" textLength="764.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#8a938a">2026-09-08  </tspan><tspan fill="#6cb4e8" font-weight="700">token-radar                 </tspan><tspan fill="#e3ecdc">Multi-chain Telegram token listener with a terminal</tspan></text>
 <text x="32" y="120" xml:space="preserve" textLength="352.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#e3ecdc">                                        </tspan><tspan fill="#e3ecdc">UI</tspan></text>
